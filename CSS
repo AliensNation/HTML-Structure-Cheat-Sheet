@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  background-image: url(https://wallpapercave.com/wp/TQAsSVo.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  border: 1px solid chocolate;
+  background-color: orange;
+  font-family: cursive;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-family: cursive;
+  border: 1px solid chocolate;
+  background-color: orange;
+}
+
+table {
+  border: 2px solid chocolate;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: indianred;
+}
+
+td {
+  border: 1px solid chocolate;
+  background-color: wheat;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+  font-weight: 700;
+}
+
+.highlight {
+  font-family: fantasy;
+  color: black;
+}
